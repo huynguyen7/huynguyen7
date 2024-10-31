@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-I'm **Huy Nguyen**, a Software Engineer with over 3 years of experience across various domains, including full-stack development, backend engineering, and data engineering.
+I am **Huy Nguyen**, a Software Engineer with 3+ years of experience developing backend systems and high-performance data engineering solutions at Nordstrom and beyond. Skilled in Java, Python, and SQL, with a record in designing REST APIs, optimizing data pipelines for big datasets, and enhancing system performance. Experienced in distributed computing, data streaming with Kafka, and cloud architecture on AWS, also excel in creating impactful solutions that streamline financial planning, improve data accessibility, and meet strategic business objectives. Published contributor in machine learning research and driving data-informed decision-making through large-scale system optimization.
+
+### Tech Stack
+
+- **Languages**: Java, Python, SQL, JavaScript, Haskell, HTML, CSS
+- **Frameworks & Libraries**: Spring, ReactJS, Flask, Artillery
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD pipelines, New Relic, Splunk
+- **Data Processing & Streaming**: Apache Kafka, Apache Airflow, PostgreSQL, AWS Athena, AWS Aurora
+- **Computing & Optimization**: Multithreading, Data Partitioning, Load Balancing
+
 
 ### 🔍 Explore My GitHub Projects
 
