@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I am **Huy Nguyen**, a Software Engineer with 3+ years of experience developing backend systems and high-performance data engineering solutions at Nordstrom and beyond. Skilled in Java, Python, and SQL, with a record in designing REST APIs, optimizing data pipelines for big datasets, and enhancing system performance. Experienced in distributed computing, data streaming with Kafka, and cloud architecture on AWS, also excel in creating impactful solutions that streamline financial planning, improve data accessibility, and meet strategic business objectives. Published contributor in machine learning research and driving data-informed decision-making through large-scale system optimization.
+I am **Huy Nguyen**, a Software Engineer with 3+ years of experience developing backend systems and high-performance data engineering solutions at Nordstrom and beyond. Skilled in Java, Python, and SQL, with a record in designing REST APIs, optimizing data pipelines for big datasets, and enhancing system performance. Experienced in distributed computing, data streaming with Kafka, and cloud architecture on AWS and GCP, also excel in creating impactful solutions that streamline financial planning, improve data accessibility, and meet strategic business objectives. Published contributor in machine learning research and driving data-informed decision-making through large-scale system optimization.
 
 ### Tech Stack
 
 - **Languages**: Java, Python, SQL, JavaScript, Haskell, HTML, CSS
 - **Frameworks & Libraries**: Spring, ReactJS, Flask, Artillery
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD pipelines, New Relic, Splunk
-- **Data Processing & Streaming**: Apache Kafka, Apache Airflow, PostgreSQL, AWS Athena, AWS Aurora
+- **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, CI/CD pipelines, New Relic, Splunk
+- **Data Processing & Streaming**: Apache Kafka, Apache Airflow, PostgreSQL, AWS Athena, AWS Aurora, GCP BigQuery
 - **Computing & Optimization**: Multithreading, Data Partitioning, Load Balancing
 
 
