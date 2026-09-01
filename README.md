@@ -35,17 +35,3 @@ I learn systems by reading real code, reproducing failure cases, and building sm
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/huy-nguyen-a31a13157/)
 - [Blog](https://huynguyen7.github.io)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huynguyen7&color=brightgreen" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huynguyen7&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyen7&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" alt="Top Languages" />
-</p>
