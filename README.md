@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a Member of Technical Staff at Nutanix, based in San Jose. I have more than four years of experience building backend services, streaming pipelines, and data platforms. My work has included Go and Kafka at Visa, and Java, Spring, Airflow, and Kafka at Nordstrom.
-I learn systems by reading real code, reproducing failure cases, and building smaller versions of the internals. My current independent study focuses on storage engines, query processing, distributed consensus, and lakehouse systems.
+I learn systems by reading real code, reproducing failure cases, and building smaller versions of the internals. My current independent study focuses on storage engines, distributed consensus, and lakehouse systems.
 
 ### Tech Stack
 
